@@ -18,8 +18,8 @@
     </dependency>
     <dependency>
       <groupId>org.apache.subversion</groupId>
-      <artifactId>svnjavahl</artifactId>
-      <version>1.6.12</version>
+      <artifactId>svn-javahl-api</artifactId>
+      <version>1.7.4</version>
     </dependency>
     <dependency>
       <groupId>commons-collections</groupId>
